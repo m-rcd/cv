@@ -1,6 +1,7 @@
 # **MARIANNE RACHID**
 
-[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
+[SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience) | [INTERESTS](#interests)
+___
 
 ## <a name="skills">**SKILLS**</a>
 
@@ -18,7 +19,7 @@
 
 * **Project coordination**
 
-  While I was working at Hirehand, I was responsible of live operations. This involved answering all messages immediately, assigning hands to shifts, answering calls from clients, making sure that hands are at their shifts on time. All this has to be done simultaneously. I was able to do that by coordinating my tasks and managing my time.
+  While I was working at Hirehand, I was responsible of live operations. This involved answering all messages immediately, assigning hands to shifts, answering calls from clients, making sure that hands are at their shifts on time. All this has to be done simultaneously. My Strong organisational  and time management allowed me to get all those tasks done.
 
 
 * **Additional skills:**
@@ -27,7 +28,7 @@
 ## <a name="Education">**EDUCATION**</a>
 
 ### Makers Academy (Aug 2018 - Nov 2018)
- Fulltime intensive coding bootcamp
+ 16 weeks full-time intensive coding bootcamp covering:
   * Git and Github
   * Unix shell
   * Ruby
@@ -49,7 +50,7 @@ Operational administrator
 
 ### TechKnowDay conference (March 2018)
 Teaching assistant for a
-[TDD and pairing](https://github.com/fouralarmfire/square-one/tree/master/tutorials) workshop
+[TDD and pairing](https://github.com/fouralarmfire/square-one/blob/master/tutorials/fizzbuzz-tdd.md) workshop
 
 ## <a name="Interests">**INTERESTS**</a>
 
