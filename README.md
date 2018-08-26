@@ -1,6 +1,6 @@
 # **MARIANNE RACHID**
 
-[Skills](#SKILLS) | [Education](#EDUCATION) | [Experience](#EXPERIENCE) | [Interests](#INTERESTS)
+[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
 ## <a name="skills">**SKILLS**</a>
 
