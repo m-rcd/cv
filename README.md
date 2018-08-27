@@ -7,7 +7,7 @@
 After completing my MSc in Drug Discovery and Pharma Management and working in the field for a while, I realised that I wasn't passionate about this subject. It wasn't until I started coding that I understood what being passionate about something really means. Now after 16 weeks of studying at [Makers Academy](https://makers.tech/become/makers-academy), I can't wait to keep learning and challenging myself.
 
 ## <a name="skills">**SKILLS**</a>
-  
+
 * **Client management**
 
   In a previous role I occasionally had to handle clients who felt they had not received a satisfactory service. I was able to deal with problems swiftly and directly, usually over the phone with very little notice, and ensure that clients maintained their confidence in us for future transactions. Such problems often arose when personnel did not show up for roles, and it was my duty to find adequate replacement within a very tight timeframe.
@@ -55,5 +55,7 @@ Teaching assistant for a
 
 ## <a name="Interests">**INTERESTS**</a>
 
+* Coding(of course)
 * Books   
 * Hiking
+* Cooking
