@@ -9,7 +9,7 @@ After completing my MSc in Drug Discovery and Pharma Management and working in t
 ## <a name="Projects">**PROJECTS**</a>
 
 | Project | Description | Technologies| Links |
-|---      |---          |---          |
+|---      |---          |---          |---       |
 |[Spaceagram](https://github.com/m-rcd/instagram-challenge)| Instagram clone | Ruby on rails, RSpec, Capybara, HTML| [Sign up!](https://spaceagram.herokuapp.com/)|
 |[Bowling scorecard](https://github.com/m-rcd/bowling-challenge) | A single page app to calculate score | Javascript, Jquery, Jasmine, HTML, CSS| |
 |[Chitter](https://github.com/m-rcd/chitter-challenge) | Twitter clone | Ruby, Sinatra, Datamapper, Capybara, RSpec| [Sign up!](https://chitter0.herokuapp.com/) |
